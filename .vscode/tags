@@ -1,0 +1,51 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Iterable	../c04\b.py	/^from collections import Iterable$/;"	kind:namespace	line:15
+L	../c02\b.py	/^L = ['Apple', 123, True]$/;"	kind:variable	line:21
+L	../c04\a.py	/^L = ['Michael', 'Sarah', 'Tracy', 'Bob', 'Jack']$/;"	kind:variable	line:4
+L	../c04\a.py	/^L = range(100)$/;"	kind:variable	line:12
+L	../c04\c.py	/^L = ['Hello', 'World', 'IBM', 'Apple']$/;"	kind:variable	line:17
+L	../c04\c.py	/^L = []$/;"	kind:variable	line:4
+__author__	../c06\a.py	/^__author__ = "ML"$/;"	kind:variable	line:6
+a.py	../c01\a.py	1;"	kind:file	line:1
+a.py	../c02\a.py	1;"	kind:file	line:1
+a.py	../c03\a.py	1;"	kind:file	line:1
+a.py	../c04\a.py	1;"	kind:file	line:1
+a.py	../c06\a.py	1;"	kind:file	line:1
+args	../c03\c.py	/^args = (1, 2, 3, 4)$/;"	kind:variable	line:39
+b.py	../c02\b.py	1;"	kind:file	line:1
+b.py	../c03\b.py	1;"	kind:file	line:1
+b.py	../c04\b.py	1;"	kind:file	line:1
+birth	../c02\c.py	/^birth = int(raw_input('birth: '))$/;"	kind:variable	line:22
+c.py	../c02\c.py	1;"	kind:file	line:1
+c.py	../c03\c.py	1;"	kind:file	line:1
+c.py	../c04\c.py	1;"	kind:file	line:1
+calc	../c03\c.py	/^def calc(*numbers):$/;"	kind:function	line:9
+classmates	../c02\b.py	/^classmates = ('Micheal', 'Bob', 'Tracy')$/;"	kind:variable	line:29
+classmates	../c02\b.py	/^classmates = ['Micheal', 'Bob', 'Tracy']$/;"	kind:variable	line:4
+d	../c02\d.py	/^d = {'Micheel': 95, 'Bob': 75, 'Tracy': 85}$/;"	kind:variable	line:5
+d	../c04\b.py	/^d = {'a':1, 'b':2, 'c':3}$/;"	kind:variable	line:5
+d	../c04\c.py	/^d = {'x': 'A', 'y': 'B', 'z': 'C' }$/;"	kind:variable	line:14
+d.py	../c02\d.py	1;"	kind:file	line:1
+func	../c03\c.py	/^def func(a, b, c=0, *args, **kw):$/;"	kind:function	line:30
+kw	../c03\c.py	/^kw = {'x': 99}$/;"	kind:variable	line:40
+my_abs	../c03\b.py	/^def my_abs(x):$/;"	kind:function	line:5
+n	../c02\c.py	/^    n = n - 2$/;"	kind:variable	line:19
+n	../c02\c.py	/^n = 99 $/;"	kind:variable	line:16
+nums	../c03\c.py	/^nums = [1, 2, 3]$/;"	kind:variable	line:18
+person	../c03\c.py	/^def person(name, age, **kw):$/;"	kind:function	line:23
+s	../c02\b.py	/^s = ['python', 'java', ['asp', 'php'], 'scheme']$/;"	kind:variable	line:23
+s	../c02\d.py	/^s = set([1, 1, 2, 2, 3, 3])$/;"	kind:variable	line:17
+s	../c02\d.py	/^s = set([1, 2, 3])$/;"	kind:variable	line:15
+sum	../c02\c.py	/^    sum = sum + n$/;"	kind:variable	line:18
+sum	../c02\c.py	/^    sum = sum + x$/;"	kind:variable	line:12
+sum	../c02\c.py	/^    sum = sum + x$/;"	kind:variable	line:6
+sum	../c02\c.py	/^sum = 0$/;"	kind:variable	line:10
+sum	../c02\c.py	/^sum = 0$/;"	kind:variable	line:15
+sum	../c02\c.py	/^sum = 0$/;"	kind:variable	line:4
+sys	../c06\a.py	/^import sys$/;"	kind:namespace	line:8
+test	../c06\a.py	/^def test():$/;"	kind:function	line:10
